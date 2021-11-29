@@ -17,9 +17,21 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5"  width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="20" height="20"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/></p><p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Danielbarbieri&show_icons=true" alt="Danielbarbieri"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="20" height="20"/>
 </p>
+<p align= "center">
+<img src="https://github-readme-stats.vercel.app/api?username=Danielbarbieri&show_icons=true" alt="Danielbarbieri"/> 
+<br/>  
+<br/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielbarbieri&langs_count=12)](https://github.com/Danielbarbieri/github-readme-stats"/>
+</p>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danielbarbieri&langs_count=12)](https://github.com/Danielbarbieri/github-readme-stats) -->
+
+
 
 
 <!-- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
